@@ -1,0 +1,14 @@
+{
+  "configurations": {
+    "Launch": {
+      "adapter": "vscode-cpptools",
+      "configuration": {
+        "request": "launch",
+        "program": "./build/src/CMakeFiles/kmeans.dir/main.cpp.o",
+        "cwd": "/home/jules/code/cpp/inf5171/tp2/inf5171-tp2-21.8.1-Source/",
+        "externalConsole": true,
+        "MIMode": "gdb"
+      }
+    }
+  }
+}
